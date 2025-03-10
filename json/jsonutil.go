@@ -1,6 +1,8 @@
 package json
 
-import "encoding/json"
+import (
+	"encoding/json"
+)
 
 // ToJSON 将对象转换为 JSON 字符串
 func ToJSON(v interface{}) (string, error) {
