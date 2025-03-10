@@ -2,4 +2,4 @@
 
 
 
-go get github.com/jamie20241210/CJ_Labs_crypto_go@9fcd938
+go get github.com/jamie20241210/CJ_Labs_crypto_go@244fbc0b

@@ -1,4 +1,4 @@
-package bench32
+package bech32
 
 import (
 	"strings"

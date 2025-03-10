@@ -1,4 +1,4 @@
-package bench32
+package bech32
 
 // ChecksumConst is a type that represents the currently defined bech32
 // checksum constants.
